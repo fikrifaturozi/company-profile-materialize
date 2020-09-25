@@ -1,0 +1,33 @@
+.slider h3,
+.slider h5 {
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.9);
+}
+
+.container .brand-logo {
+    font-style: italic;
+}
+
+.container ul,
+.container .brand-logo {
+    font-weight: bolder;
+}
+
+.parallax-container {
+    height: 500px;
+}
+
+.parallax h3 {
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.9);
+}
+
+.parallax img{
+    filter: saturate(0.9);
+}
+
+.card {
+    box-shadow: 1px 1px 3px rgba(255, 255, 255, 0.356);
+}
+
+section, footer {
+    padding: 20px 0;
+}
